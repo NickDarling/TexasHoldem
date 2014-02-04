@@ -1,6 +1,4 @@
-TexasHoldem
+TexasHoldem [2010]
 ===========
 
-Simpmle texas hold'em poker game
-
-2010
+A simple texas hold'em poker game.
